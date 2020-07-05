@@ -43,7 +43,7 @@ body {
    min-height: 100%;
    overflow: hidden;
    position: relative;
- }
+}
 
 
 /* header */
@@ -266,7 +266,7 @@ body {
    display: none;}
 
 /* Стрелка вправо */
- .slick-arrow.slick-next{
+.slick-arrow.slick-next{
    right: 26px;
    background-image: url(/images/arrows/arrow-right.png);
 }
